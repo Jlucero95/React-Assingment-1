@@ -55,7 +55,7 @@ _You can copy and paste these checklists into your new repository and fill them 
 import "./some-css-file";
 
 function CharacterCard() {
-  // code goes here
+	// code goes here
 }
 ```
 
